@@ -1,0 +1,14 @@
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\bin\Debug\PanBoxV2.exe.config
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\bin\Debug\PanBoxV2.exe
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\bin\Debug\PanBoxV2.pdb
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.csproj.AssemblyReference.cache
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.Form1.resources
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.Properties.Resources.resources
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.csproj.GenerateResource.cache
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.csproj.CoreCompileInputs.cache
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.exe
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.pdb
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.FrmMenu.resources
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.Principal.resources
+D:\Documentos-HD\ProgramaPanBox\PanBoxV2\PanBoxV2\obj\Debug\PanBoxV2.FrmFuncionario.resources
